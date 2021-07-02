@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-# Formulario_validaci-n
-=======
-# Formulario_validacion
->>>>>>> d2aa3aeb4e68e13c7c4bdc4e674307be100f1891
+# Formulario
+
+### Formulario con validación. Diseño responsive.
+### Diseño basado en: https://www.youtube.com/watch?v=cEKDyzoTXb4
+
+<img src="./readme.png" alt="imagen readme" width="400px">
